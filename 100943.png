@@ -1,0 +1,91 @@
+source_start
+source_id 100943
+source_type poetry
+
+TARGET
+walt whitman
+TARGET
+
+KEYWORD
+a boston ballad, 1854
+KEYWORD
+
+FRAGMENT
+to get betimes in boston town, i rose this morning early;
+here's a good place at the corner--i must stand and see the show.
+
+clear the way there, jonathan!
+way for the president's marshal! way for the government cannon!
+way for the federal foot and dragoons--and the apparitions copiously tumbling.
+
+i love to look on the stars and stripes--i hope the fifes will play
+yankee doodle.
+
+how bright shine the cutlasses of the foremost troops!
+every man holds his revolver, marching stiff through boston town.
+
+a fog follows--antiques of the same come limping,
+some appear wooden-legged, and some appear bandaged and bloodless.
+
+why this is indeed a show! it has called the dead out of the earth!
+the old grave-yards of the hills have hurried to see!
+phantoms! phantoms countless by flank and rear!
+cock'd hats of mothy mould! crutches made of mist!
+arms in slings! old men leaning on young men's shoulders!
+
+what troubles you, yankee phantoms? what is all this chattering of bare gums?
+does the ague convulse your limbs? do you mistake your crutches for fire-locks, and level them?
+
+if you blind your eyes with tears, you will not see the president's marshal;
+if you groan such groans, you might balk the government cannon.
+
+for shame, old maniacs! bring down those toss'd arms, and let your white hair be;
+here gape your great grand-sons--their wives gaze at them from the windows,
+see how well dress'd--see how orderly they conduct themselves.
+
+worse and worse! can't you stand it? are you retreating?
+is this hour with the living too dead for you?
+
+retreat then! pell-mell!
+to your graves! back! back to the hills, old limpers!
+i do not think you belong here, anyhow.
+
+but there is one thing that belongs here--shall i tell you what it is, gentlemen of boston?
+i will whisper it to the mayor--he shall send a committee to england;
+they shall get a grant from the parliament, go with a cart to the royal vault--haste!
+
+dig out king george's coffin, unwrap him quick from the grave--clothes, box up his bones for a journey;
+find a swift yankee clipper--here is freight for you, black-bellied clipper,
+up with your anchor! shake out your sails! steer straight toward boston bay.
+
+now call for the president's marshal again, bring out the government cannon,
+fetch home the roarers from congress, make another procession, guard it with foot and dragoons.
+
+this centre-piece for them:
+look! all orderly citizens--look from the windows, women!
+
+the committee open the box, set up the regal ribs, glue those that will not stay,
+clap the skull on top of the ribs, and clap a crown on top of the skull.
+
+you have got your revenge, old buster! the crown is come to its own, and more than its own.
+
+stick your hands in your pockets, jonathan--you are a made man from this day;
+you are mighty cute--and here is one of your bargains.
+FRAGMENT
+
+SEE ALSO
+SEE ALSO
+
+BASE
+>> master_bridge
+lynx -source https://unentangled.net/u/b/earth.bin
+
+>> local_bridge
+lynx -source https://unentangled.net/u/b/alpha_centauri.bin
+BASE
+
+NOTE
+>> check source_url on local_bridge
+NOTE
+
+source_end
