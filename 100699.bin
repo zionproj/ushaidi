@@ -1,0 +1,32 @@
+source_start
+source_id 100699
+source_type geometry
+
+TARGET
+alternate interior angles
+TARGET
+
+KEYWORD
+definition
+KEYWORD
+
+FRAGMENT
+pairs of angles formed by two lines and a transversal that make a z pattern
+FRAGMENT
+
+SEE ALSO
+SEE ALSO
+
+BASE
+>> master_bridge
+lynx -source https://unentangled.net/u/b/earth.bin
+
+>> local_bridge
+lynx -source https://unentangled.net/u/b/andromeda.bin
+BASE
+
+NOTE
+>> check source_url on local_bridge
+NOTE
+
+source_end
